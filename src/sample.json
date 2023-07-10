@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Rebecca Bellan",
+    "title": "The 5 biggest takeaways from Tesla's Cyber Roundup",
+    "description": "Tesla's 2022 Cyber Roundup shareholder meeting took on a boisterous tone from the outset.",
+    "url": "https://techcrunch.com/2022/08/04/the-5-biggest-takeaways-from-teslas-cyber-roundup/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1239960989.jpg?w=711",
+    "publishedAt": "2022-08-05T00:03:10Z",
+    "content": "Tesla held its annual shareholder meeting, which the company now refers to as its Cyber Roundup, Thursday at the Tesla Gigafactory Texas.\r\nThe Cyber Roundup comes just a couple of weeks after Tesla r… [+3947 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Matt Burns",
+    "title": "Found’s Swathy Prithivi and Atomic’s Jordan Kong on TechCrunch Live",
+    "description": "Swathy Prithivi started Found with the goal of improving the journey of weight loss. The company quickly discovered a huge demand and rapidly scaled its operations and expanded throughout the United States. The company’s story started in an Atomic incubator. …",
+    "url": "https://techcrunch.com/2022/08/04/founds-swathy-prithivi-and-atomics-jordan-kong-on-techcrunch-live/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/TCL-2022-08-10-featured-1920x1080-1.png?w=711",
+    "publishedAt": "2022-08-04T22:17:26Z",
+    "content": "Swathy Prithivi started Found with the goal of improving the journey of weight loss. The company quickly discovered a huge demand and rapidly scaled its operations and expanded throughout the United … [+970 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Christine Hall",
+    "title": "Daily Crunch: Kurtosis raises $20M Series A to give web3 developers 'a place to play around'",
+    "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+    "url": "https://techcrunch.com/2022/08/04/daily-crunch-kurtosis-raises-20m-series-a-to-give-web3-developers-a-place-to-play-around/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1069786222.jpg?w=600",
+    "publishedAt": "2022-08-04T22:05:38Z",
+    "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT,subscribe here.\r\nHaje and I are swapping places for the next two days while he gets … [+5401 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Rebecca Bellan",
+    "title": "Lyft rides post-COVID recovery to record earnings, but faces inflationary headwinds",
+    "description": "Lyft was able to take advantage of severe internal cost-cutting measures combined with a post-COVID boom in travel to help it deliver its highest quarter yet.",
+    "url": "https://techcrunch.com/2022/08/04/lyft-rides-post-covid-recovery-to-record-earnings-but-faces-inflationary-headwinds/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/11/Lyft-Option-2.jpg?w=600",
+    "publishedAt": "2022-08-04T22:02:52Z",
+    "content": "Ride-hail giant Lyft reported strong second-quarter earnings Thursday. Earlier this year, investors had been skeptical of Lyft’s ability to offset the costs of increased investments to attract and re… [+6156 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Lauren Forristal",
+    "title": "HBO, HBO Max and Discovery+ report a combined total of 92.1M subscribers, plans for major restructuring",
+    "description": "Warner Bros. Discovery revealed its second-quarter results — its first quarterly earnings since the $43 billion merger. The total number of direct-to-consumer subscribers across HBO, HBO Max, and Discovery+ was 92.1 million in the second quarter of 2022, up 1…",
+    "url": "https://techcrunch.com/2022/08/04/hbo-hbo-max-and-discovery-report-a-combined-total-of-92-1m-subscribers-plans-for-major-restructuring/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1178935742.jpg?w=711",
+    "publishedAt": "2022-08-04T21:29:58Z",
+    "content": "Warner Bros. Discovery revealed its second-quarter results — its first quarterly earnings since the $43 billion merger.\r\nThe total number of direct-to-consumer subscribers across HBO, HBO Max, and Di… [+6419 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Sarah Perez",
+    "title": "Top anonymous social app NGL forced to stop tricking its users",
+    "description": "A popular anonymous social app that was misleading its users with fake messages has been forced to change. The top-ranked app NGL, which became the No. 1 app on the U.S. App Store in June, quietly rolled out an update yesterday that sees it now informing user…",
+    "url": "https://techcrunch.com/2022/08/04/top-anonymous-social-app-ngl-forced-to-stop-tricking-its-users/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/ngl-app-ios.jpg?w=711",
+    "publishedAt": "2022-08-04T21:06:22Z",
+    "content": "A popular anonymous social app that was misleading its users with fake messages has been forced to change. The top-ranked app NGL, which became the No. 1 app on the U.S. App Store in June, quietly ro… [+4305 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Tim De Chant",
+    "title": "The road map for building the Uber of climate tech",
+    "description": "The world needs a climate tech startup that’s like an early-days Uber, a company that won’t take no for an answer.",
+    "url": "https://techcrunch.com/2022/08/04/the-road-map-for-building-the-uber-of-climate-tech/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/microgrid-renewable-city.jpg?w=571",
+    "publishedAt": "2022-08-04T21:00:58Z",
+    "content": "The world needs a company willing to force governments to take action on climate change.\r\nSo far, climate tech has been the polite corner of the startup world. All pleases and thank yous, triple bott… [+999 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kirsten Korosec",
+    "title": "How to watch and what to expect at the Tesla 'Cyber Roundup' annual meeting",
+    "description": "Tesla will kick off Thursday afternoon its annual meeting — rebranded Cyber Roundup — from its Austin headquarters, an event that promises to deliver customary pomp and pageantry, thumping beats and some newsworthy comments from its CEO Elon Musk. There are 1…",
+    "url": "https://techcrunch.com/2022/08/04/how-to-watch-what-to-expect-tesla-cyber-roundup-annual-meeting/",
+    "urlToImage": "https://techcrunch.com/wp-content/themes/techcrunch-2017/images/opengraph-default.png",
+    "publishedAt": "2022-08-04T20:41:16Z",
+    "content": "Tesla will kick off Thursday afternoon its annual meeting rebranded Cyber Roundup from its Austin headquarters, an event that promises to deliver customary pomp and pageantry, thumping beats and some… [+1842 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Harri Weber",
+    "title": "Bill Gates’ Breakthrough Energy backs Terabase’s robot-built solar farms",
+    "description": "Breakthrough Energy Ventures, a climate-focused VC firm linked to some of Earth’s wealthiest individuals, has joined a $44 million bet on solar startup Terabase Energy. Terabase aims to rapidly build new solar farms “at the terawatt scale,” CEO Matt Campbell …",
+    "url": "https://techcrunch.com/2022/08/04/bill-gates-breakthrough-energy-terabase-robot-solar-farms/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/terabase.jpeg?w=533",
+    "publishedAt": "2022-08-04T20:06:08Z",
+    "content": "Breakthrough Energy Ventures, a climate-focused VC firm linked to some of Earth’s wealthiest individuals, has joined a $44 million bet on solar startup Terabase Energy.\r\nTerabase aims to rapidly buil… [+1382 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Devin Coldewey",
+    "title": "Meta's threat report highlights clumsy attempt to manipulate Ukraine discourse",
+    "description": "Meta’s quarterly “Adversarial Threat Report” paints a somewhat depressing picture of the once feared global troll ecosystem: A number of outfits “relatively low in sophistication” attempting fruitlessly to spam their way to relevance. But just because they’re…",
+    "url": "https://techcrunch.com/2022/08/04/metas-threat-report-highlights-clumsy-attempt-to-manipulate-ukraine-discourse/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-rough-texture.jpg?w=711",
+    "publishedAt": "2022-08-04T20:05:57Z",
+    "content": "Meta’s quarterly “Adversarial Threat Report” paints a somewhat depressing picture of the once feared global troll ecosystem: A number of outfits “relatively low in sophistication” attempting fruitles… [+4008 chars]"
+    }
+    ]
+    }
